@@ -1,0 +1,22 @@
+{
+  "name": "scale-express",
+  "description": "scale images using graphicsmagick and express.js",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "author": {
+    "name": "David Kamphausen",
+    "email": "david.kamphausen@web.de"
+  },
+  "main": "index",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "gm": ">=1.8.0",
+    "gm-buffer":"*",
+    "express" : ">=3.2.0"
+  },
+  "devDependencies": {}
+}
